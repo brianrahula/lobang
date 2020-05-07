@@ -1,0 +1,36 @@
+[t$="chat"] {
+    display:none !important;
+} 
+
+[t$="playlist"] {
+    display:none !important;
+} 
+
+.chat.tab_visible.tab {
+    display: none !important;
+}
+
+.logo{
+    display: none !important;
+}
+
+.settings .left{
+    float: none !important;
+    width: unset !important;
+    border: none !important;
+    border-image: none !important;
+    box-sizing: unset !important;
+    max-width: unset !important;
+}
+
+.right{
+    display: none !important;
+}
+
+footer{
+    display: none !important;
+}
+
+main {
+    min-height: unset !important;
+}
